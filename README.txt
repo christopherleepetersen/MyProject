@@ -12,3 +12,5 @@ Site Map
 	->To do list
 	->Your Favorite Car
 	->Contact Me
+
+The sample production site URL: http://sotd.us/christopherpetersen/MyProject/index.html
